@@ -2,6 +2,7 @@ var mousePressed = false
 var cnv = document.querySelector('canvas')
 var ctx = cnv.getContext('2d')
 var arr = []
+alert('g')
 
 cnv.width = window.innerWidth
 cnv.height = window.innerHeight
